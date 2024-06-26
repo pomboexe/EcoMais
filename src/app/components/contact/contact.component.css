@@ -2,12 +2,12 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 120px;
+    margin-top: 20vh;
 }
 .conteudo{
     display: flex;
     flex-direction: column;
-    margin-right: 35em;
+    margin-right: 25vw;
 }
 .conteudo h2{
     margin-bottom: 72px;

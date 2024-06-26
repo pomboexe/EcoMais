@@ -1,5 +1,5 @@
 .about{
-    margin: 100px auto;
+    margin: 20vh auto;
 }
 h3{
    text-align: center;
@@ -8,6 +8,7 @@ h3{
 .saiba{
     display: flex;
     align-items: center;
+    justify-content: flex-start;
     gap: 50px;
     margin-left: 25px;
 }
