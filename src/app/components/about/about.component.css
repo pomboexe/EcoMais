@@ -1,0 +1,18 @@
+.about{
+    margin: 100px auto;
+}
+h3{
+   text-align: center;
+   font-size: 30px
+}
+.saiba{
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    margin-left: 25px;
+}
+.saiba p {
+    text-align: justify;
+    font-size: 22px;
+    width: 45%;
+}

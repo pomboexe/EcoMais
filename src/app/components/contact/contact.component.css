@@ -1,0 +1,20 @@
+.contact{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 120px;
+}
+.conteudo{
+    display: flex;
+    flex-direction: column;
+    margin-right: 35em;
+}
+.conteudo h2{
+    margin-bottom: 72px;
+    font-size: 32px;
+    font-weight: 700;
+}
+.conteudo p {
+    margin-bottom: 37px ;
+    font-size: 20px;
+}

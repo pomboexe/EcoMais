@@ -1,0 +1,47 @@
+.home{
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+}
+.home .texto{
+    margin: auto 0;
+}
+.texto p{
+    font-size: 26px;
+    color: #2C333C;
+}
+.texto h1{
+    width: 590px;
+    font-size: 44px;
+}
+.texto h1 span{
+    color: #2C71BB
+}
+.saiba{
+    margin-top: 50px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.saiba p{
+    margin: 0 auto;
+    text-align: justify;
+    width: 55%;
+    color: #344F66;
+    font-size: 24px;
+}
+.saiba button{
+    margin-right:10em ;
+    padding: 25px;
+    width: 15%;
+    border-radius: 15px;
+    font-size: 18px;
+    background-color: #344F66;
+    color: white;    
+}
+
+.direitos{
+    margin-top: 120px;
+    text-align: center;
+    font-weight: 600;
+}
